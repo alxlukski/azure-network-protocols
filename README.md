@@ -81,25 +81,27 @@ Verify Resource Group Deletion
 <p>
 ![Screenshot 2023-12-02 182025](https://github.com/alxlukski/azure-network-protocols/assets/150772204/abfe1a98-d854-4065-85bb-021601e49779)
 />
-
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this screenshot, we log into Microsoft Azure, create a resource group, then create a Windows 10 virtual machine, and an Ubuntu virtual machine inside of the resource group. This allows us to begin the project.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/alxlukski/azure-network-protocols/assets/150772204/d8e56f6f-f3cf-4b9f-86cf-d0267dd9d6ac)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this screenshot, we install Wireshark onto the Windows 10 VM, so that we can monitor network traffic inside of, and between the VM's.
+</p>
+<br />
+
+<p>
+![image](https://github.com/alxlukski/azure-network-protocols/assets/150772204/59362154-3c0d-454f-9f05-3bc637aaed23)
+![image](https://github.com/alxlukski/azure-network-protocols/assets/150772204/f3501ec4-5939-467a-a2bd-0b1841a6e48a)
+![image](https://github.com/alxlukski/azure-network-protocols/assets/150772204/512a6f08-80ec-49bf-b20d-97c2a70e0861)
+![image](https://github.com/alxlukski/azure-network-protocols/assets/150772204/3878824f-e926-41ca-a8db-9050a6d62713)
+</p>
+<p>
+In these screenshots, we first filter network traffic to ICMP inside of Wireshark, then we send a ping from the Windows 10 VM to the Ubuntu VM in order to test requests and replies between the VM's. Next we send a perpetual ping, then open the Ubuntu Network Security Group and add a rule that blocks the pings from interacting with the network.
 </p>
 <br />
