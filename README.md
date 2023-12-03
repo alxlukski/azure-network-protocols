@@ -128,7 +128,7 @@ In this screenshot, we observe SSH traffic.
 <br />
 
 <p>
-![image](https://github.com/alxlukski/azure-network-protocols/assets/150772204/b57e2d95-fdce-45a5-8a2a-0f106d0e7f99)
+![image](https://github.com/alxlukski/azure-network-protocols/assets/150772204/84db926f-9369-4f8f-b502-b90194ec95c5)
 </p>
 <p>
 In this screenshot, we observe DNS traffic.
