@@ -79,7 +79,7 @@ Verify Resource Group Deletion
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=<img src=<img src=![Screenshot 2023-12-02 182025](https://github.com/alxlukski/azure-network-protocols/assets/150772204/aff21ad1-2a30-4d2b-b458-d205bb826399)
+![Screenshot 2023-12-02 182025](https://github.com/alxlukski/azure-network-protocols/assets/150772204/abfe1a98-d854-4065-85bb-021601e49779)
 />
 
 </p>
