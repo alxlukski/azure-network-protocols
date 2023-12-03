@@ -79,7 +79,8 @@ Verify Resource Group Deletion
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>/>
+<img src=<img src=<img src=![Screenshot 2023-12-02 182025](https://github.com/alxlukski/azure-network-protocols/assets/150772204/aff21ad1-2a30-4d2b-b458-d205bb826399)
+/>
 
 </p>
 <p>
